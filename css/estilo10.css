@@ -1,0 +1,8 @@
+p {
+    margin: 50px 20px 30px;
+    padding: 40px;
+    border: black dashed 8px;
+    /*border-width: 5px;
+    border-color: blue;
+    border-style: inset;*/
+}

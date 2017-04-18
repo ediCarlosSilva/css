@@ -1,0 +1,29 @@
+/*div h2:first-child {
+    color: blue;
+}*/
+
+
+/*
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}*/
+
+input[type="text"]:focus {
+    background-color: yellow;
+}
+
+label:hover {
+    background-color: yellow;
+}
+
+a:active {
+    color: green;
+}
+
+a:lang(en) {
+    color: gray;
+}

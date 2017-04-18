@@ -1,0 +1,18 @@
+img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+}
+
+h1,
+h3,
+p {
+    border: 1px solid black;
+}
+
+span {
+    border: 1px solid red;
+    position: relative;
+    left: 6px;
+    top: 5px;
+}

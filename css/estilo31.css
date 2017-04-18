@@ -1,0 +1,39 @@
+div {
+    border: 1px solid black;
+}
+
+#container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#header {
+    background: #ccc;
+    height: 80px;
+}
+
+#left {
+    float: left;
+    width: 130px;
+    background: #666;
+}
+
+#content {
+    float: right;
+    width: 450px;
+}
+
+#footer {
+    clear: both;
+    background: #ccc;
+}
+
+#content>#principal {
+    float: left;
+    width: 340px;
+}
+
+#content>#right {
+    float: right;
+    width: 100px;
+}

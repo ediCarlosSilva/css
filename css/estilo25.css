@@ -1,0 +1,37 @@
+img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    float: right;
+}
+
+h1,
+h3,
+p {
+    border: 1px solid black;
+}
+
+
+/*#um {
+    clear: both;
+}
+
+#dois {
+    clear: both;
+}*/
+
+span.destaque {
+    border: 1px solid red;
+    width: 40%;
+    float: right;
+    background-color: white;
+}
+
+p {
+    background-color: #ddd;
+}
+
+li {
+    float: left;
+    width: 50px;
+}

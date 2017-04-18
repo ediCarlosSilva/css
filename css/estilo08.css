@@ -1,0 +1,16 @@
+p:first-line {
+    color: blue;
+}
+
+p:first-letter {
+    font-size: 40px;
+    color: red;
+}
+
+p:after {
+    content: "FIM";
+}
+
+p:before {
+    content: "INÍCIO ";
+}
